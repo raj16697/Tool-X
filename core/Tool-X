@@ -1,5 +1,5 @@
 # Tool Name :- Tool-X
-# Author :- Ethicalhacker dusad
+# Author :- Ethicalhacker 
 # Date :- 24/06/2020
 
 if [ -d /data/data/com.termux/files/usr/etc ]; then
